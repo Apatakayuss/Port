@@ -12,7 +12,7 @@ import Tailwind from '../assets/tailwind.png';
 
 const Skills = () => {
   return (
-    <div name='skills' className='w-full  bg-[#222529] py-4 text-gray-300'>
+    <div name='skills' className='w-full  bg-[#222529] py-4 text-gray-300 '>
       {/* Container */}
       <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
           <div>
