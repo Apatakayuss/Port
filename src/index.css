@@ -14,6 +14,21 @@
     }
 }
 
+html{
+    scroll-behavior: smooth;
+    scrollbar-color: red;
+}
+::-webkit-scrollbar {
+    width: 0.3em;
+  }
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  ::-webkit-scrollbar-thumb {
+    background-color: rgb(127, 251, 251);
+  }
+
+
 .content-div {
     background-repeat: no-repeat;
     background-size: cover;
