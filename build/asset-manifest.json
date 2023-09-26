@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portfolio-version1-0/static/css/main.b05da45b.css",
+    "main.js": "/Portfolio-version1-0/static/js/main.ee2434df.js",
+    "static/media/Technoglass.png": "/Portfolio-version1-0/static/media/Technoglass.b684c83c2ccd163a93d2.png",
+    "static/media/realestate.jpg": "/Portfolio-version1-0/static/media/realestate.44fd19f4c6872731149c.jpg",
+    "static/media/ApataAbdulAzeezCV.pdf": "/Portfolio-version1-0/static/media/ApataAbdulAzeezCV.f718b95a4f833adb9d99.pdf",
+    "static/media/react.png": "/Portfolio-version1-0/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/github.png": "/Portfolio-version1-0/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/Portfolio-version1-0/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/Portfolio-version1-0/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/Portfolio-version1-0/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/Portfolio-version1-0/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/Portfolio-version1-0/index.html",
+    "main.b05da45b.css.map": "/Portfolio-version1-0/static/css/main.b05da45b.css.map",
+    "main.ee2434df.js.map": "/Portfolio-version1-0/static/js/main.ee2434df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b05da45b.css",
+    "static/js/main.ee2434df.js"
+  ]
+}
